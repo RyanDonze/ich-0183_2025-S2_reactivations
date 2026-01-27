@@ -15,6 +15,5 @@
     "forwardPorts": [
         "proxy:80",
         "db:3306"
-    ],
-    "updateContentCommand": "sudo chown -R vscode:vscode ."
+    ]
 }
